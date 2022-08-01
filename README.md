@@ -1,2 +1,2 @@
 # online-users
-A CSS design for displaying clients or persons online. 
+An API fetch and CSS design for displaying clients or persons online. 
